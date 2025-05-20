@@ -1,6 +1,8 @@
+#AI Task Description
+
 This repository contains a collection of beginner-friendly AI and computer vision projects implemented using Python, OpenCV, and other relevant libraries. Each project is a hands-on example of how artificial intelligence can be applied to solve real-world or classical computer science problems.
 
-##1. Gender Detection##
+1. Gender Detection
 This project uses a pre-trained deep learning model to detect the gender of a person from an image or webcam feed. It utilizes OpenCV for face detection and a CNN-based model for gender classification (Male/Female). Useful in security systems, demographic analytics, and more.
 
 2. Monkey Banana Problem (AI Logic-Based Problem)
